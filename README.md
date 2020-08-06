@@ -70,9 +70,9 @@ ____
 
 
 
-<h3 align="center"> My accounts ✉</h3>
+<h3 align="left"> My accounts ✉</h3>
 <br />
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/jorge-ocejo-jimenez-0574b01a2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/jorgeocejo/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/jorge.ocejo2/"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
