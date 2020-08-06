@@ -14,8 +14,8 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>ReactJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+<span><b><center>PHP</center></b></span> 
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 </td>
 
 <td align="center" width="20%">
@@ -98,10 +98,3 @@ ____
 </p>
 
 ____
-
-
-<p align="center">
-
-⭐️ [piyushxbajaj](https://github.com/piyushxbajaj)
-
-</p>
