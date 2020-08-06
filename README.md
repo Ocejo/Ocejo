@@ -64,10 +64,9 @@
 </tr>
 
 </tbody>
+</table>
 
 ## <samp> used frameworks
-
-</table>
 
 <table>
 <tbody>
