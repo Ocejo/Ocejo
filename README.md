@@ -10,7 +10,7 @@
 ## <samp> Tech Stack 🖥
 
 <br>
-<table>
+<table align="center">
 <tbody>
  <tr>
 <td align="center" width="20%">
@@ -65,31 +65,6 @@
 
 </tbody>
 </table>
-
-## <samp> used frameworks
-
-<table>
-<tbody>
- <tr>
-<td align="center" width="20%">
-<span><b><center>Svelte js</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/php.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Laravel</center></b></span> 
-<img height=60px src="https://images.app.goo.gl/DzDPStU5PhhJiq4L8"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Deno</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/css3.png"> 
-</td>
-</tr>
-
-</tbody>
-</table>
-
 ____
 
 
