@@ -1,5 +1,5 @@
 
-<h2 align="center"> Hi, I'm Jorge Ocejo 👋 <br/> </h2> 
+<h2 align="center"> Hi, I'm Jorge Ocejo 🧑‍💻<br/> </h2> 
 
 <p align="center"></p>
 
@@ -19,25 +19,25 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Swift</center></b></span> 
+<span><b><center>Typescript</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/2x/typescript.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>NodeJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
+<span><b><center>CCS</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/css3.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span> 
-<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
+<span><b><center>Mysql</center></b></span> 
+<img height=65px src="https://img.icons8.com/nolan/2x/mysql.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+<img height=65px src="https://img.icons8.com/color/2x/git.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -89,7 +89,7 @@ ____
 
 
 
-<h3 align="center"> Other Accounts 📫 </h3>
+<h3 align="center"> My accounts ✉</h3>
 <br />
 <p align="center">
 <a href="https://www.linkedin.com/in/piyushxbajaj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
