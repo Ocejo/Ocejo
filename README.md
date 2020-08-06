@@ -1,3 +1,4 @@
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h2 align="center"> <samp> Hi, I'm Jorge Ocejo <br/> </h2> 
 
 <p align="center"></p>
@@ -9,7 +10,7 @@
 ## <samp> Tech Stack 🖥
 
 <br>
-<table align="left">
+<table align="center">
 <tbody>
  <tr>
 <td align="center" width="20%">
