@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/l3q2zbskZp2j8wniE/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h2 align="center"> <samp> Hi, I'm Jorge Ocejo <br/> </h2> 
 
 <p align="center"></p>
