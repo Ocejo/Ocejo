@@ -67,9 +67,6 @@
 </table>
 
 ____
-
-
-
 <h3 align="center"> My accounts ✉</h3>
 <br />
 <p align="center">
@@ -77,5 +74,4 @@ ____
 <a href="https://www.instagram.com/jorgeocejo/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/jorge.ocejo2/"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
-
 ____
