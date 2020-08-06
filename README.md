@@ -15,12 +15,12 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>PHP</center></b></span> 
-<img height=60px src="https://www.flaticon.com/free-icon/php_919830?term=php&page=1&position=2"> 
+<img height=60px src="https://img.icons8.com/color/2x/php.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Swift</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
+<img height=60px src="https://img.icons8.com/color/2x/typescript.png"> 
 </td>
 
 <td align="center" width="20%">
