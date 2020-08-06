@@ -70,7 +70,7 @@ ____
 
 
 
-<h3 align="left"> My accounts ✉</h3>
+<h3 align="center"> My accounts ✉</h3>
 <br />
 <p align="left">
 <a href="https://www.linkedin.com/in/jorge-ocejo-jimenez-0574b01a2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
