@@ -7,7 +7,7 @@
 <p align="center"> <samp>I am an engineer in computer systems, I am passionate about technology and my biggest dream is to leave a mark in this incredible technological world.
   
   
-## <samp> Tech Stack :computer:
+## <samp> Tech Stack 🖥
 
 <br>
 <table>
@@ -42,7 +42,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Bash</center></b></span> 
-<img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
+<img height=65px src="https://img.icons8.com/color/2x/console.png"> 
 </td>
 </tr>
 
