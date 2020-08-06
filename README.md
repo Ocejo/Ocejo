@@ -15,7 +15,7 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>PHP</center></b></span> 
-<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<img height=60px src="https://www.flaticon.com/free-icon/php_919830?term=php&page=1&position=2"> 
 </td>
 
 <td align="center" width="20%">
