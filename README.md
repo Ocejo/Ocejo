@@ -1,5 +1,5 @@
 
-<h2 align="center"> Hi, I'm Jorge Ocejo 🧑‍💻<br/> </h2> 
+<h2 align="center"> Hi, I'm Jorge Ocejo <br/> </h2> 
 
 <p align="center"></p>
 
@@ -7,7 +7,7 @@
 <p align="center"> <samp>I am an engineer in computer systems, I am passionate about technology and my biggest dream is to leave a mark in this incredible technological world.
   
   
-## Tech Stack :computer:
+## <samp> Tech Stack :computer:
 
 <br>
 <table>
@@ -41,27 +41,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/python.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
 <span><b><center>Bash</center></b></span> 
 <img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>C++</center></b></span> 
-<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
-</td>
-
-
-
-<td align="center" width="20%">
-<span><b><center>Flutter</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
 </td>
 </tr>
 
