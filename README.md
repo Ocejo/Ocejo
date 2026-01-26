@@ -1,96 +1,134 @@
-<h2 align="center"> <samp> Hi, I'm Jorge Ocejo 👋<br/> </h2> 
-
-<p align="center">
-<samp>
-I am an engineer in computer systems, passionate about technology, and my biggest dream is to leave a mark in this incredible technological world.
-</samp>
-</p>
-
-<p align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejY5aXh6N2RiYzM2ZXhtOXhhdzB6eTkyNmx1N3VobWd0bzYydmoxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="200">
-</p>
-
-![GitHub followers](https://img.shields.io/github/followers/jorgeocejo?label=Follow&style=social)
-
-## <samp> Tech Stack 🖥 </samp>
+<div align="center">
 
 <br>
-<table align="center">
-<tbody>
-<tr>
-<td align="center" width="20%">
-<span><b><center>PHP</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/php.png"> 
-</td>
 
-<td align="center" width="20%">
-<span><b><center>Typescript</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/typescript.png"> 
-</td>
+# Jorge Ocejo
 
-<td align="center" width="20%">
-<span><b><center>CSS</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/css3.png"> 
-</td>
-</tr>
+**IT Coordinator** · **University Lecturer** · **Backend Engineer**
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>MySQL</center></b></span> 
-<img height=65px src="https://img.icons8.com/nolan/2x/mysql.png"> 
-</td>
+<br>
 
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/git.png"> 
-</td>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejY5aXh6N2RiYzM2ZXhtOXhhdzB6eTkyNmx1N3VobWd0bzYydmoxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="160">
 
-<td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/console.png"> 
-</td>
-</tr>
+<br>
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
-</td>
+*Passionate computer systems engineer with 7+ years of professional experience.*  
+*From developer (2018) to IT Coordinator & University Lecturer.*  
+*My goal is to leave a meaningful impact in this incredible technological world.*
 
-<td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
-</td>
+<br>
 
-<td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
-</td>
-</tr>
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Ocejo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-ocejo)
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/python.png"> 
-</td>
+</div>
 
-<td align="center" width="20%">
-<span><b><center>Laravel</center></b></span> 
-<img height=65px src="https://img.icons8.com/fluency/2x/laravel.png"> 
-</td>
-<td align="center" width="20%">
-<span><b><center>Svelte</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"> 
-</td>
-</tr>
+<br>
 
-</tbody>
+---
+
+<br>
+
+<div align="center">
+
+## Tech Stack
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/96/php.png" width="48" height="48" alt="PHP" />
+      <br><sub><b>PHP</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/fluency/96/laravel.png" width="48" height="48" alt="Laravel" />
+      <br><sub><b>Laravel</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/96/typescript.png" width="48" height="48" alt="TypeScript" />
+      <br><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/96/python.png" width="48" height="48" alt="Python" />
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/96/javascript.png" width="48" height="48" alt="JavaScript" />
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="48" height="48" alt="Svelte" />
+      <br><sub><b>Svelte</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/96/mysql-logo.png" width="48" height="48" alt="MySQL" />
+      <br><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/96/git.png" width="48" height="48" alt="Git" />
+      <br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/96/bash.png" width="48" height="48" alt="Bash" />
+      <br><sub><b>Bash</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/96/html-5.png" width="48" height="48" alt="HTML5" />
+      <br><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/96/css3.png" width="48" height="48" alt="CSS3" />
+      <br><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/96/linux.png" width="48" height="48" alt="Linux" />
+      <br><sub><b>Linux</b></sub>
+    </td>
+  </tr>
 </table>
 
-<h3 align="center"> My accounts ✉</h3>
-<br />
-<p align="center">
-<a href="www.linkedin.com/in/jorge-luis-ocejo-jimenez-0574b01a2"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/jorgeocejo/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/jorge.ocejo2/"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
+<br>
+
+## AI & Agents
+
+<br>
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-00DC82?style=for-the-badge&logo=codeium&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6366F1?style=for-the-badge&logo=openai&logoColor=white)
+![CLI Agents](https://img.shields.io/badge/CLI_Agents-0D1117?style=for-the-badge&logo=windowsterminal&logoColor=white)
+
+</div>
+
+<br>
+
+---
+
+## What I'm Working On
+
+<div align="center">
+
+| Area | Focus |
+|:---:|:---|
+| **IT Leadership** | Coordinating IT department and technical teams |
+| **Education** | University lecturer, shaping future developers |
+| **AI Development** | Building applications powered by AI agents and LLMs |
+| **Web Development** | Backend development with modern frameworks |
+
+</div>
+
+---
+<div align="center">
+
+## Let's Connect
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ocejojimenezjorgeluis@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jorge.ocejo2/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jorgeocejo/)
+
+</div>
