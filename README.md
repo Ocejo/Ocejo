@@ -67,7 +67,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="48" height="48" alt="Svelte" />
         <br><sub><b>Svelte</b></sub>
       </td>
-      
     </tr>
     <tr>
       <td align="center" width="96">
@@ -144,4 +143,3 @@
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jorgeocejo/)
   
   </div>
-  
